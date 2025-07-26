@@ -109,6 +109,7 @@ npm install
 ```bash
 npm start
 ```
+Nikhitha R
 
   View the website at: http://localhost:3000
 
